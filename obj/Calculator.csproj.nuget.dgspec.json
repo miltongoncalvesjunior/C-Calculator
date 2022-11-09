@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\decim\\Calculator\\Calculator.csproj": {}
+    "C:\\Users\\milton.goncalves01\\Dev\\C-Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\decim\\Calculator\\Calculator.csproj": {
+    "C:\\Users\\milton.goncalves01\\Dev\\C-Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\decim\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\milton.goncalves01\\Dev\\C-Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\decim\\Calculator\\Calculator.csproj",
-        "packagesPath": "C:\\Users\\decim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\decim\\Calculator\\obj\\",
+        "projectPath": "C:\\Users\\milton.goncalves01\\Dev\\C-Calculator\\Calculator.csproj",
+        "packagesPath": "C:\\Users\\milton.goncalves01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\milton.goncalves01\\Dev\\C-Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\decim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\milton.goncalves01\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
