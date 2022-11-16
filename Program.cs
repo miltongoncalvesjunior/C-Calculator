@@ -114,7 +114,7 @@ namespace Calculator
            Console.WriteLine("");
            
             float resultado = v1*v2;
-            Console.WriteLine ("A Multiplicação dos valores é:" + (v1 *v2   ));
+            Console.WriteLine ("A Multiplicação dos valores é:" + (v1 * v2   ));
             Console.ReadKey();
             Menu();
         }
